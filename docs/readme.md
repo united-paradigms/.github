@@ -1,0 +1,1 @@
+This repository houses default "community health" files and any other possible default GitHub-specific files.
